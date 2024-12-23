@@ -1,9 +1,9 @@
-site_name: "My website"
-site_description: "About dozy_owl"
-site_author: "Ivan Lobanov"
+site_name: "Сайт @dozyowl"
+site_description: "Про dozy_owl"
+site_author: "Иван Лобанов, университет ИТМО"
 theme:
-  custom_dir: theme/
   name: null
+  custom_dir: theme/
 plugins:
   - search
 nav:
