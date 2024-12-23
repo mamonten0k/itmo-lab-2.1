@@ -1,0 +1,15 @@
+site_name: "My website"
+site_description: "About dozy_owl"
+site_author: "Ivan Lobanov"
+theme:
+  custom_dir: theme/
+  name: null
+plugins:
+  - search
+nav:
+  - Главная: index.md
+
+extra:
+  social:
+    - icon: fontawesome/github
+      link: https://github.com/mamonten0k
