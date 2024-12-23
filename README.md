@@ -8,20 +8,30 @@
 
 ## Установка
 - Клонируйте репозиторий:  
-```git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>```
+```
+git clone https://github.com/<your-username>/<repository-name>.git
+cd <repository-name>
+```
 
 Установите Python-зависимости:  
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 Установите Node.js-зависимости:
-```npm install```
+``` 
+npm install
+```
 
 Соберите минифицированный CSS:
-```npm run build:css```
+```
+npm run build:css
+```
 
 Запустите локальный сервер MkDocs:
-```mkdocs serve```
+```
+mkdocs serve
+```
 
 Сайт должег быть доступен по адресу http://127.0.0.1:8000.
 
